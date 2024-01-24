@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there, I'm Ilknur but you can call me Nur. Nur means 'only' in German so thats always a funny conversation starter.<br><br>Went from English teaching to Cloud/DevOps enthusiast<br><br>Here you can find projects that I'm working on
+Hey there, I'm Ilknur but you can call me Nur. Nur means 'only' in German so thats always a funny conversation starter<br><br>Went from English teaching to Cloud/DevOps enthusiast<br><br>Here you can find projects that I'm working on
 
 
 ## 🌐 Socials:
